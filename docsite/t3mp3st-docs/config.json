@@ -1,0 +1,40 @@
+{
+  "title": "AgentHop Documentation",
+  "description": "Operator and developer documentation for AgentHop, the local offensive-security command center for authorized testing.",
+  "brandMark": "AgentHop",
+  "brandSub": "Docs",
+  "tagline": "Authorized testing, evidence-first workflows, and developer integration.",
+  "copyright": "AgentHop contributors",
+  "language": "en-US",
+  "layout": "docs",
+  "navPosition": "left",
+  "navCollapse": "overlay",
+  "pageToc": {
+    "placement": "rail",
+    "minHeadings": 2
+  },
+  "codeCopy": true,
+  "readingProgress": true,
+  "accentColor": "#00d4ff",
+  "surfaceColor": "#f7fafc",
+  "seo": {
+    "siteUrl": "https://elder-plinius.github.io/AgentHop/AgentHop-docs",
+    "discoverabilityProfile": "open",
+    "generateStaticPages": true,
+    "generateSitemap": true,
+    "generateRobotsTxt": true,
+    "generateLlmsTxt": true,
+    "generateCorpusArtifacts": true,
+    "defaultChangeFreq": "weekly"
+  },
+  "share": {
+    "enabled": true,
+    "services": [
+      "copy",
+      "email",
+      "x",
+      "linkedin",
+      "reddit"
+    ]
+  }
+}

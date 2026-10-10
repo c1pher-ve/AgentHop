@@ -1,0 +1,19 @@
+{
+  "tenants": [
+    {
+      "id": "AgentHop-docs",
+      "source": {
+        "type": "local",
+        "path": "./docsite/AgentHop-docs"
+      },
+      "strictLinks": true,
+      "language": "en-US",
+      "accessibility": {
+        "strict": false,
+        "report": {
+          "enabled": true
+        }
+      }
+    }
+  ]
+}
